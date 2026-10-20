@@ -1,1 +1,1 @@
-# Implementasi-2
+*Mengambil data performa dari hasil simulasi, lalu menggunakan pustaka matplotlib untuk menghasilkan grafik analisis kinerja (scaling analysis chart). Grafik ini membandingkan penurunan waktu eksekusi terhadap lonjakan performa GFLOPS, yang kemudian disimpan secara otomatis menjadi file gambar
